@@ -19,6 +19,7 @@ A implementação da Insider CDP para este caso de uso será dividida em quatro 
 
 2.  **Estruturação dos Dados:**
     * **Limpeza:** Identificação e correção de erros, inconsistências e dados faltantes nas bases de origem.
+    * **Identificação do Identificador Unico:** Garantir que as bases possuam um identificador unico entre todas as bases e interações dentro da plataforma.
     * **Tratamento de Duplicatas:** Eliminação de registros repetidos para garantir a unicidade do perfil do cliente.
     * **Normalização de Dados:** Padronização dos formatos de dados (ex: datas, endereços, telefones) para assegurar a consistência e a interoperabilidade.
 
